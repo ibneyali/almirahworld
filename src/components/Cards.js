@@ -41,6 +41,13 @@ function Cards() {
                         label='Luxury'
                         path='/services' />
                    </ul>
+                   <ul className="cards__items">
+                        <CardItem 
+                        src="images/img-10.png"
+                        text="Travel through the Islands of Bali in a Private Cruise"
+                        label='Luxury'
+                        path='/services' />
+                   </ul>
                 </div>
             </div>
             
