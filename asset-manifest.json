@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/naseerialmirah/static/css/main.e2c8a606.chunk.css",
+    "main.js": "/naseerialmirah/static/js/main.f531e2c3.chunk.js",
+    "main.js.map": "/naseerialmirah/static/js/main.f531e2c3.chunk.js.map",
+    "runtime-main.js": "/naseerialmirah/static/js/runtime-main.2a781cee.js",
+    "runtime-main.js.map": "/naseerialmirah/static/js/runtime-main.2a781cee.js.map",
+    "static/js/2.94c525c1.chunk.js": "/naseerialmirah/static/js/2.94c525c1.chunk.js",
+    "static/js/2.94c525c1.chunk.js.map": "/naseerialmirah/static/js/2.94c525c1.chunk.js.map",
+    "index.html": "/naseerialmirah/index.html",
+    "precache-manifest.0e6aad89f45940a5556b8193900427ce.js": "/naseerialmirah/precache-manifest.0e6aad89f45940a5556b8193900427ce.js",
+    "service-worker.js": "/naseerialmirah/service-worker.js",
+    "static/css/main.e2c8a606.chunk.css.map": "/naseerialmirah/static/css/main.e2c8a606.chunk.css.map",
+    "static/js/2.94c525c1.chunk.js.LICENSE.txt": "/naseerialmirah/static/js/2.94c525c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a781cee.js",
+    "static/js/2.94c525c1.chunk.js",
+    "static/css/main.e2c8a606.chunk.css",
+    "static/js/main.f531e2c3.chunk.js"
+  ]
+}
